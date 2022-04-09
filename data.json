@@ -1,0 +1,1092 @@
+[
+ {
+   "state": "Aj Jazirah",
+   "state_pcod": "SD15",
+   "locality": "Um Algura",
+   "locality_pcod": "SD15032",
+   "location": "Fau 5",
+   "latitude": 14.476782,
+   "longtitude": 34.031308,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "Kassala",
+   "state_pcod": "SD11",
+   "locality": "Reifi Kassla",
+   "locality_pcod": "SD11056",
+   "location": "Wad Sharife",
+   "latitude": 15.3606,
+   "longtitude": 36.4472,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "Kassala",
+   "state_pcod": "SD11",
+   "locality": "Reifi Wad Elhilaiw",
+   "locality_pcod": "SD11061",
+   "location": "Shagarab-I",
+   "latitude": 14.7597,
+   "longtitude": 35.9803,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "Kassala",
+   "state_pcod": "SD11",
+   "locality": "Reifi Wad Elhilaiw",
+   "locality_pcod": "SD11061",
+   "location": "Shagarab-II",
+   "latitude": 14.7381,
+   "longtitude": 35.9736,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "Kassala",
+   "state_pcod": "SD11",
+   "locality": "Reifi Wad Elhilaiw",
+   "locality_pcod": "SD11061",
+   "location": "Shagarab-III",
+   "latitude": 14.7042,
+   "longtitude": 35.9722,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "Kassala",
+   "state_pcod": "SD11",
+   "locality": "Reifi Wad Elhilaiw",
+   "locality_pcod": "SD11061",
+   "location": "Abuda",
+   "latitude": 14.3525,
+   "longtitude": 35.8897,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "Kassala",
+   "state_pcod": "SD11",
+   "locality": "Reifi Khashm Elgirba",
+   "locality_pcod": "SD11060",
+   "location": "Kilo 26",
+   "latitude": 15.0781,
+   "longtitude": 35.7625,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "Kassala",
+   "state_pcod": "SD11",
+   "locality": "Reifi Khashm Elgirba",
+   "locality_pcod": "SD11060",
+   "location": "Girba",
+   "latitude": 14.96632,
+   "longtitude": 35.922356,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "Gedaref",
+   "state_pcod": "SD12",
+   "locality": "Al Fashaga",
+   "locality_pcod": "SD12075",
+   "location": "Um Gargour",
+   "latitude": 14.5092,
+   "longtitude": 35.6361,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "Gedaref",
+   "state_pcod": "SD12",
+   "locality": "",
+   "locality_pcod": "",
+   "location": "Village 8",
+   "latitude": 14.1705680556,
+   "longtitude": 36.1309280556,
+   "type": "Transit center"
+ },
+ {
+   "state": "Gedaref",
+   "state_pcod": "SD12",
+   "locality": "",
+   "locality_pcod": "",
+   "location": "Hamdayet",
+   "latitude": 14.268345,
+   "longtitude": 36.5315811111,
+   "type": "Entry Point"
+ },
+ {
+   "state": "Gedaref",
+   "state_pcod": "SD12",
+   "locality": "",
+   "locality_pcod": "",
+   "location": "UNHCR Gedaref office",
+   "latitude": 14.036405,
+   "longtitude": 35.383175,
+   "type": "Office"
+ },
+ {
+   "state": "Gedaref",
+   "state_pcod": "SD12",
+   "locality": "",
+   "locality_pcod": "",
+   "location": "Um Rakuba",
+   "latitude": 13.4881488889,
+   "longtitude": 35.6711919444,
+   "type": "Camp"
+ },
+ {
+   "state": "Gedaref",
+   "state_pcod": "SD12",
+   "locality": "",
+   "locality_pcod": "",
+   "location": "AL ASERA",
+   "latitude": 13.6056280556,
+   "longtitude": 36.2938269444,
+   "type": "Entry Point"
+ },
+ {
+   "state": "Gedaref",
+   "state_pcod": "SD12",
+   "locality": "",
+   "locality_pcod": "",
+   "location": "WD AROOT",
+   "latitude": 13.6641088889,
+   "longtitude": 36.2743738889,
+   "type": "Entry Point"
+ },
+ {
+   "state": "Gedaref",
+   "state_pcod": "SD12",
+   "locality": "",
+   "locality_pcod": "",
+   "location": "Tunaydba",
+   "latitude": 13.7607338889,
+   "longtitude": 34.4045519444,
+   "type": "Camp"
+ },
+ {
+   "state": "White Nile",
+   "state_pcod": "SD09",
+   "locality": "As Salam / Ar Rawat",
+   "locality_pcod": "SD09049",
+   "location": "El Kashafa",
+   "latitude": 12.500243,
+   "longtitude": 32.780653,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "White Nile",
+   "state_pcod": "SD09",
+   "locality": "As Salam / Ar Rawat",
+   "locality_pcod": "SD09049",
+   "location": "Jouri",
+   "latitude": 12.377518,
+   "longtitude": 32.80355,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "White Nile",
+   "state_pcod": "SD09",
+   "locality": "Aj Jabalain",
+   "locality_pcod": "SD09051",
+   "location": "Dabat Bosin",
+   "latitude": 12.583322,
+   "longtitude": 32.777445,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "White Nile",
+   "state_pcod": "SD09",
+   "locality": "As Salam / Ar Rawat",
+   "locality_pcod": "SD09049",
+   "location": "Al Redis 1 (Albahar)",
+   "latitude": 12.583322,
+   "longtitude": 32.777445,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "White Nile",
+   "state_pcod": "SD09",
+   "locality": "As Salam / Ar Rawat",
+   "locality_pcod": "SD09049",
+   "location": "Al Redis 2",
+   "latitude": 12.598457,
+   "longtitude": 32.765813,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "White Nile",
+   "state_pcod": "SD09",
+   "locality": "As Salam / Ar Rawat",
+   "locality_pcod": "SD09049",
+   "location": "Um Sangour",
+   "latitude": 12.660033,
+   "longtitude": 32.747302,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "White Nile",
+   "state_pcod": "SD09",
+   "locality": "Aj Jabalain",
+   "locality_pcod": "SD09051",
+   "location": "Al Alagaya",
+   "latitude": 12.366076,
+   "longtitude": 32.801976,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "White Nile",
+   "state_pcod": "SD09",
+   "locality": "Kosti",
+   "locality_pcod": "SD09047",
+   "location": "Khor Alwarel",
+   "latitude": 12.716649,
+   "longtitude": 32.740752,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "White Nile",
+   "state_pcod": "SD09",
+   "locality": "As Salam / Ar Rawat",
+   "locality_pcod": "SD09049",
+   "location": "Um Jalala",
+   "latitude": 12.061576,
+   "longtitude": 32.725002,
+   "type": "Refugee Reception Center"
+ },
+ {
+   "state": "White Nile",
+   "state_pcod": "SD09",
+   "locality": "As Salam / Ar Rawat",
+   "locality_pcod": "SD09049",
+   "location": "El Megenis",
+   "latitude": 11.966963,
+   "longtitude": 32.10346,
+   "type": "Refugee Reception Center"
+ },
+ {
+   "state": "White Nile",
+   "state_pcod": "SD09",
+   "locality": "Aj Jabalain",
+   "locality_pcod": "SD09051",
+   "location": "Joda",
+   "latitude": 12.256722,
+   "longtitude": 32.768301,
+   "type": "Refugee Reception Center"
+ },
+ {
+   "state": "White Nile",
+   "state_pcod": "SD09",
+   "locality": "Kosti",
+   "locality_pcod": "SD09047",
+   "location": "AlJameya",
+   "latitude": 12.731828,
+   "longtitude": 32.724397,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "East Darfur",
+   "state_pcod": "SD05",
+   "locality": "Bahr Al Arab",
+   "locality_pcod": "SD05160",
+   "location": "Kario",
+   "latitude": 11.140283,
+   "longtitude": 26.190906,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "East Darfur",
+   "state_pcod": "SD05",
+   "locality": "Assalaya",
+   "locality_pcod": "SD05163",
+   "location": "Al Nimir",
+   "latitude": 11.22495,
+   "longtitude": 26.00037,
+   "type": "Refugee Camp"
+ },
+ {
+   "state": "East Darfur",
+   "state_pcod": "SD05",
+   "locality": "Abu Jabrah",
+   "locality_pcod": "SD05140",
+   "location": "Abu Jabra",
+   "latitude": 11.066265,
+   "longtitude": 26.854147,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "East Darfur",
+   "state_pcod": "SD05",
+   "locality": "Abu Karinka",
+   "locality_pcod": "SD05155",
+   "location": "Abu Karinka",
+   "latitude": 11.586806,
+   "longtitude": 26.535702,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "East Darfur",
+   "state_pcod": "SD05",
+   "locality": "Adila",
+   "locality_pcod": "SD05139",
+   "location": "Adila",
+   "latitude": 11.366333,
+   "longtitude": 26.7799,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "East Darfur",
+   "state_pcod": "SD05",
+   "locality": "Assalaya",
+   "locality_pcod": "SD05163",
+   "location": "Asalaaya",
+   "latitude": 11.396515,
+   "longtitude": 25.946337,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "East Darfur",
+   "state_pcod": "SD05",
+   "locality": "Bahr Al Arab",
+   "locality_pcod": "SD05160",
+   "location": "Abu Matarig",
+   "latitude": 10.985844,
+   "longtitude": 26.202239,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "East Darfur",
+   "state_pcod": "SD05",
+   "locality": "Ad Du'ayn",
+   "locality_pcod": "SD05142",
+   "location": "El Daein",
+   "latitude": 11.515688,
+   "longtitude": 26.034498,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "East Darfur",
+   "state_pcod": "SD05",
+   "locality": "Ad Du'ayn",
+   "locality_pcod": "SD05142",
+   "location": "Khor Omer IDP Camp",
+   "latitude": 11.443611,
+   "longtitude": 26.110556,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "East Darfur",
+   "state_pcod": "SD05",
+   "locality": "Al Firdous",
+   "locality_pcod": "SD05152",
+   "location": "El Ferdous",
+   "latitude": 11.05099,
+   "longtitude": 25.48488,
+   "type": "Collective self-settlement"
+ },
+ {
+   "state": "East Darfur",
+   "state_pcod": "SD05",
+   "locality": "Yassin",
+   "locality_pcod": "SD05165",
+   "location": "Yassin (Muhajiriya)",
+   "latitude": 11.997083,
+   "longtitude": 25.613171,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Abu Jubayhah",
+   "locality_pcod": "SD07088",
+   "location": "Al Sirajiya",
+   "latitude": 11.087659,
+   "longtitude": 31.482375,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Ar Rashad",
+   "locality_pcod": "SD07093",
+   "location": "Tegmala",
+   "latitude": 11.512347,
+   "longtitude": 31.328635,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Abu Jubayhah",
+   "locality_pcod": "SD07088",
+   "location": "Abu Nowara",
+   "latitude": 11.146935,
+   "longtitude": 31.301077,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Habila - SK",
+   "locality_pcod": "SD07103",
+   "location": "Dar Batti",
+   "latitude": 10.217776,
+   "longtitude": 30.681568,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Abu Jubayhah",
+   "locality_pcod": "SD07088",
+   "location": "Gedied",
+   "latitude": 11.240979,
+   "longtitude": 31.543538,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Al Leri",
+   "locality_pcod": "SD07105",
+   "location": "Elleri West",
+   "latitude": 10.271803,
+   "longtitude": 30.675002,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Abu Jubayhah",
+   "locality_pcod": "SD07088",
+   "location": "Abu Jubaiha Town",
+   "latitude": 11.271556,
+   "longtitude": 31.14177,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Kadugli",
+   "locality_pcod": "SD07098",
+   "location": "Kadugli",
+   "latitude": 11.05451,
+   "longtitude": 29.433555,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Abu Jubayhah",
+   "locality_pcod": "SD07088",
+   "location": "Um Hashima",
+   "latitude": 11.3535,
+   "longtitude": 31.4023,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Abu Jubayhah",
+   "locality_pcod": "SD07088",
+   "location": "Quaryd",
+   "latitude": 11,
+   "longtitude": 31.7,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Al Quoz",
+   "locality_pcod": "SD07094",
+   "location": "Ed Dibebat",
+   "latitude": 12.5124,
+   "longtitude": 29.8002,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Al Quoz",
+   "locality_pcod": "SD07094",
+   "location": "El Hamadi",
+   "latitude": 12.683333,
+   "longtitude": 29.983333,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Dilling",
+   "locality_pcod": "SD07095",
+   "location": "Diling",
+   "latitude": 12.047463,
+   "longtitude": 29.656408,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Habila - SK",
+   "locality_pcod": "SD07103",
+   "location": "Habila Town",
+   "latitude": 11.94139,
+   "longtitude": 30.03583,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Talawdi",
+   "locality_pcod": "SD07089",
+   "location": "Al Amira",
+   "latitude": 10.06229,
+   "longtitude": 30.726675,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Kordofan",
+   "state_pcod": "SD07",
+   "locality": "Ar Rashad",
+   "locality_pcod": "SD07093",
+   "location": "Mabrooka",
+   "latitude": 11.993056,
+   "longtitude": 31.100833,
+   "type": "Refugee Reception Center"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Abu Zabad",
+   "locality_pcod": "SD18028",
+   "location": "Abu Galeb & Khams Halab",
+   "latitude": 12.466667,
+   "longtitude": 29.333333,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Abu Zabad",
+   "locality_pcod": "SD18028",
+   "location": "Abu Zabad Town",
+   "latitude": 12.351713,
+   "longtitude": 29.24954,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Abyei",
+   "locality_pcod": "SD18087",
+   "location": "Al Agad/ Al Agud",
+   "latitude": 10.1825,
+   "longtitude": 28.11361,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Abyei",
+   "locality_pcod": "SD18087",
+   "location": "Muglad Town",
+   "latitude": 11.035342,
+   "longtitude": 27.752537,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Abyei",
+   "locality_pcod": "SD18087",
+   "location": "Siteb",
+   "latitude": 10.42472,
+   "longtitude": 28.01167,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Babanusa",
+   "locality_pcod": "SD18100",
+   "location": "Babanusa Town",
+   "latitude": 11.32056,
+   "longtitude": 27.79667,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Babanusa",
+   "locality_pcod": "SD18100",
+   "location": "El Tibbun",
+   "latitude": 11.316667,
+   "longtitude": 27.35,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Al Dibab",
+   "locality_pcod": "SD18103",
+   "location": "Debab (Other Villages)",
+   "latitude": 10.566667,
+   "longtitude": 28.216667,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Al Meiram",
+   "locality_pcod": "SD18106",
+   "location": "El Meiram",
+   "latitude": 10.146389,
+   "longtitude": 27.687222,
+   "type": "Collective self-settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "An Nuhud",
+   "locality_pcod": "SD18022",
+   "location": "El Nuhud Town",
+   "latitude": 12.694025,
+   "longtitude": 28.430703,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Al Idia",
+   "locality_pcod": "SD18104",
+   "location": "El Odaya Town",
+   "latitude": 12.052831,
+   "longtitude": 28.27251,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "As Salam - WK",
+   "locality_pcod": "SD18086",
+   "location": "El Fula",
+   "latitude": 11.719167,
+   "longtitude": 28.329444,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Ghubaish",
+   "locality_pcod": "SD18021",
+   "location": "Gubaysh",
+   "latitude": 12.150671,
+   "longtitude": 27.350273,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Keilak",
+   "locality_pcod": "SD18085",
+   "location": "Keilak Town",
+   "latitude": 10.83202,
+   "longtitude": 29.35191,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Keilak",
+   "locality_pcod": "SD18085",
+   "location": "Kharasana",
+   "latitude": 10.837983,
+   "longtitude": 29.317917,
+   "type": "Collective self-settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Al Lagowa",
+   "locality_pcod": "SD18102",
+   "location": "Lagawa Town",
+   "latitude": 11.405236,
+   "longtitude": 29.137269,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Kordofan",
+   "state_pcod": "SD18",
+   "locality": "Wad Bandah",
+   "locality_pcod": "SD18029",
+   "location": "Wad Banda Rural",
+   "latitude": 13.102634,
+   "longtitude": 27.948958,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Lait",
+   "locality_pcod": "SD02169",
+   "location": "Godat",
+   "latitude": 11.858742,
+   "longtitude": 26.550756,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Lait",
+   "locality_pcod": "SD02169",
+   "location": "Abu Sufyan",
+   "latitude": 11.880192,
+   "longtitude": 26.398064,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Lait",
+   "locality_pcod": "SD02169",
+   "location": "Shag Allayoun",
+   "latitude": 11.825833,
+   "longtitude": 26.968861,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Lait",
+   "locality_pcod": "SD02169",
+   "location": "Abo (Hallet) Ali",
+   "latitude": 11.903908,
+   "longtitude": 26.976221,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Lait",
+   "locality_pcod": "SD02169",
+   "location": "Dalil Dokhry",
+   "latitude": 11.848176,
+   "longtitude": 26.788975,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Lait",
+   "locality_pcod": "SD02169",
+   "location": "Habib Darma",
+   "latitude": 11.893311,
+   "longtitude": 26.879131,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Lait",
+   "locality_pcod": "SD02169",
+   "location": "Haskanita",
+   "latitude": 11.971083,
+   "longtitude": 26.640444,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Lait",
+   "locality_pcod": "SD02169",
+   "location": "El-Lait Unit",
+   "latitude": 11.961361,
+   "longtitude": 27.051806,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Fasher",
+   "locality_pcod": "SD02114",
+   "location": "El Fasher",
+   "latitude": 13.676182,
+   "longtitude": 25.36414,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Lait",
+   "locality_pcod": "SD02169",
+   "location": "Aiyal Amin",
+   "latitude": 12.208197,
+   "longtitude": 26.862836,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Lait",
+   "locality_pcod": "SD02169",
+   "location": "Abu Gileiha",
+   "latitude": 11.875822,
+   "longtitude": 27.153422,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Lait",
+   "locality_pcod": "SD02169",
+   "location": "Dalil Babikir",
+   "latitude": 11.837174,
+   "longtitude": 26.663669,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "North Darfur",
+   "state_pcod": "SD02",
+   "locality": "Al Lait",
+   "locality_pcod": "SD02169",
+   "location": "Futaha",
+   "latitude": 11.766197,
+   "longtitude": 26.873272,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Darfur",
+   "state_pcod": "SD03",
+   "locality": "As Salam - SD",
+   "locality_pcod": "SD03166",
+   "location": "Abu Ajura Town",
+   "latitude": 11.597017,
+   "longtitude": 24.676033,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Darfur",
+   "state_pcod": "SD03",
+   "locality": "Beliel",
+   "locality_pcod": "SD03162",
+   "location": "Bielel IDP Camp",
+   "latitude": 11.998485,
+   "longtitude": 25.026726,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Darfur",
+   "state_pcod": "SD03",
+   "locality": "Buram",
+   "locality_pcod": "SD03161",
+   "location": "Buram",
+   "latitude": 10.814424,
+   "longtitude": 25.174293,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Darfur",
+   "state_pcod": "SD03",
+   "locality": "Al Radoum",
+   "locality_pcod": "SD03141",
+   "location": "El Radom Town",
+   "latitude": 9.883142,
+   "longtitude": 24.848127,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Darfur",
+   "state_pcod": "SD03",
+   "locality": "Al Radoum",
+   "locality_pcod": "SD03141",
+   "location": "El Radom Town",
+   "latitude": 9.827117,
+   "longtitude": 24.797544,
+   "type": "Refugee Reception Center"
+ },
+ {
+   "state": "South Darfur",
+   "state_pcod": "SD03",
+   "locality": "Kateila",
+   "locality_pcod": "SD03159",
+   "location": "Katayla",
+   "latitude": 11.192222,
+   "longtitude": 24.398611,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Darfur",
+   "state_pcod": "SD03",
+   "locality": "Nyala Janoub",
+   "locality_pcod": "SD03167",
+   "location": "Nyala",
+   "latitude": 12.055573,
+   "longtitude": 24.890583,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Darfur",
+   "state_pcod": "SD03",
+   "locality": "Al Radoum",
+   "locality_pcod": "SD03141",
+   "location": "Al Fifi",
+   "latitude": 10.047873,
+   "longtitude": 24.995996,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Darfur",
+   "state_pcod": "SD03",
+   "locality": "Damso",
+   "locality_pcod": "SD03172",
+   "location": "Dimsu",
+   "latitude": 10.964319,
+   "longtitude": 24.672112,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "South Darfur",
+   "state_pcod": "SD03",
+   "locality": "Al Radoum",
+   "locality_pcod": "SD03141",
+   "location": "Kafia Kinji",
+   "latitude": 9.266055,
+   "longtitude": 24.41949,
+   "type": "Crossing Point"
+ },
+ {
+   "state": "Central Darfur",
+   "state_pcod": "SD06",
+   "locality": "Gharb Jabal Marrah",
+   "locality_pcod": "SD06131",
+   "location": "Nertiti",
+   "latitude": 12.9668,
+   "longtitude": 24.03358,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "Central Darfur",
+   "state_pcod": "SD06",
+   "locality": "Zalingi",
+   "locality_pcod": "SD06138",
+   "location": "Zalingei",
+   "latitude": 12.899989,
+   "longtitude": 23.481064,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Darfur",
+   "state_pcod": "SD04",
+   "locality": "Ag Geneina",
+   "locality_pcod": "SD04115",
+   "location": "El Geneina",
+   "latitude": 13.441266,
+   "longtitude": 22.445404,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Darfur",
+   "state_pcod": "SD04",
+   "locality": "Foro Baranga",
+   "locality_pcod": "SD04121",
+   "location": "Foro Baranga",
+   "latitude": 12.125117,
+   "longtitude": 22.5896,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "West Darfur",
+   "state_pcod": "SD04",
+   "locality": "Habila - WD",
+   "locality_pcod": "SD04122",
+   "location": "Habila",
+   "latitude": 12.68005,
+   "longtitude": 22.561933,
+   "type": "Refugee Settlement"
+ },
+ {
+   "state": "Khartoum",
+   "state_pcod": "SD01",
+   "locality": "Sharg An Neel",
+   "locality_pcod": "SD01004",
+   "location": "Al Takamol",
+   "latitude": 15.6291338889,
+   "longtitude": 32.6471469444,
+   "type": "Open Areas"
+ },
+ {
+   "state": "Khartoum",
+   "state_pcod": "SD01",
+   "locality": "Sharg An Neel",
+   "locality_pcod": "SD01004",
+   "location": "HY Baraka BL3",
+   "latitude": 15.59773,
+   "longtitude": 32.6398425,
+   "type": "Open Areas"
+ },
+ {
+   "state": "Khartoum",
+   "state_pcod": "SD01",
+   "locality": "Sharg An Neel",
+   "locality_pcod": "SD01004",
+   "location": "HY Baraka BL4",
+   "latitude": 15.5973283333,
+   "longtitude": 32.64818,
+   "type": "Open Areas"
+ },
+ {
+   "state": "Khartoum",
+   "state_pcod": "SD01",
+   "locality": "Jebel Awlia",
+   "locality_pcod": "SD01001",
+   "location": "Dar El Salam BL7",
+   "latitude": 15.2102019444,
+   "longtitude": 32.5251219444,
+   "type": "Open Areas"
+ },
+ {
+   "state": "Khartoum",
+   "state_pcod": "SD01",
+   "locality": "Jebel Awlia",
+   "locality_pcod": "SD01001",
+   "location": "Dar El Salam BL8",
+   "latitude": 15.2105063889,
+   "longtitude": 32.53385,
+   "type": "Open Areas"
+ },
+ {
+   "state": "Khartoum",
+   "state_pcod": "SD01",
+   "locality": "Jebel Awlia",
+   "locality_pcod": "SD01001",
+   "location": "Bantiue",
+   "latitude": 15.2491427778,
+   "longtitude": 32.5469558333,
+   "type": "Open Areas"
+ },
+ {
+   "state": "Khartoum",
+   "state_pcod": "SD01",
+   "locality": "Um Durman",
+   "locality_pcod": "SD01006",
+   "location": "Angola",
+   "latitude": 15.6103305556,
+   "longtitude": 32.4344513889,
+   "type": "Open Areas"
+ },
+ {
+   "state": "Khartoum",
+   "state_pcod": "SD01",
+   "locality": "Um Durman",
+   "locality_pcod": "SD01006",
+   "location": "John Madit",
+   "latitude": 15.6049608333,
+   "longtitude": 32.4006019444,
+   "type": "Open Areas"
+ },
+ {
+   "state": "Khartoum",
+   "state_pcod": "SD01",
+   "locality": "Um Durman",
+   "locality_pcod": "SD01006",
+   "location": "Nivasha",
+   "latitude": 15.6571241667,
+   "longtitude": 32.2706452778,
+   "type": "Open Areas"
+ }
+]
